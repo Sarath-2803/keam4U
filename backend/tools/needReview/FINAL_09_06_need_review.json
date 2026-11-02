@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Two similar metallic rods of same length l and area of cross section A are joined and maintained at temperatures T₁ and T₂ (T₁ > T₂) at one of their ends as shown in the figure. If their thermal conductivities are K and K/2 respectively. The temperature at the joining point in the steady state is [diagram]",
+    "image": null,
+    "options": [
+      "(T₁+T₂)/2",
+      "(2(T₂-T₁))/3",
+      "(2T₁+T₂)/3",
+      "(T₂-T₁)/2",
+      "(3(T₂-T₁))/2"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Properties of Matter",
+    "year": 2024,
+    "subject": "m"
+  },
+  {
+    "question": "The y-intercept of the graph between the terminal voltage V with load resistance R along y and x-axis, respectively, of a cell with internal resistance r, as shown, is [diagram]",
+    "image": null,
+    "options": [
+      "ε",
+      "-ε",
+      "ε/R",
+      "εR",
+      "-εR"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Current Electricity",
+    "year": 2024,
+    "subject": "m"
+  },
+  {
+    "question": "A parallel beam of light is incident from air at an angle α on the side PQ of a right-angled triangular prism of refractive index μ = √2 = 1.414. The beam of light undergoes total internal reflection in the prism at the face PR when α has a minimum value of 45°. The angle θ of the prism is [diagram]",
+    "image": null,
+    "options": [
+      "15°",
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "Optics",
+    "year": 2024,
+    "subject": "m"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "question": "In the circuit given below, the current is [diagram]",
+    "image": null,
+    "options": [
+      "0.10 A",
+      "10⁻³ A",
+      "0.5 A",
+      "1 A",
+      "0 A"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Semiconductor Devices",
+    "year": 2024,
+    "subject": "m"
+  }
+]

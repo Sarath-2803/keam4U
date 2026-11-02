@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://keam4u.vercel.app/sitemap.xml

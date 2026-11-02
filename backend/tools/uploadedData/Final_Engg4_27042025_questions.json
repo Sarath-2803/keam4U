@@ -1,0 +1,2226 @@
+[
+  {
+    "question": "The relation R = {(4,4), (4,5), (5,7), (4,8), (5,5), (7,8), (7,7), (7,5), (8,8), (8,5), (9,9)} on the set A={4, 5, 7, 8, 9} is",
+    "image": null,
+    "options": [
+      "transitive",
+      "symmetric",
+      "reflexive",
+      "equivalence relation",
+      "a function"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Sets and Relations",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let A = {1, 2, 3, 4} and B = {7, 8, 3, 4} Then the number of elements common to both A × B and B × A is",
+    "image": null,
+    "options": [
+      "8",
+      "6",
+      "12",
+      "4",
+      "2"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Sets and Relations",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The range of the function f(x) = log_e(4x^2 - 4x + 1), where x ≠ 1/2 is",
+    "image": null,
+    "options": [
+      "(-∞, 0)",
+      "[0, ∞)",
+      "(0, ∞)",
+      "(-∞, 0)",
+      "(-∞, ∞)"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The domain of the function f(x) = √(x^2 + 2x - 15) is",
+    "image": null,
+    "options": [
+      "(-∞, -5) U (3, ∞)",
+      "(-∞, -5) U [3, ∞)",
+      "(-∞, -5] U (3, ∞)",
+      "(-∞, -5] U [3, ∞)",
+      "[-5, 3]"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "All the points in A = {(λ + i)/(λ - i); λ ∈ ℝ} lie on",
+    "image": null,
+    "options": [
+      "a circle with radius √2",
+      "a circle with radius 2",
+      "a circle with radius 1/2",
+      "a circle with radius 1",
+      "a straight line with slope 1"
+    ],
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "Complex Numbers",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Σ_{n=1}^{2025} i^n(1 + i), i^2 = -1 ,is equal to",
+    "image": null,
+    "options": [
+      "i + 1",
+      "i - 1",
+      "-i - 1",
+      "-i + 1",
+      "-i"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Complex Numbers",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If x, y ∈ ℝ and x + iy = -(6 + i)^3, i^2 = -1, then x - y is equal to",
+    "image": null,
+    "options": [
+      "93",
+      "-93",
+      "91",
+      "-91",
+      "-107"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Complex Numbers",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let z = x + iy, where x, y ∈ ℝ and i^2 = -1. If |z - i| = |z - 1|, then y =",
+    "image": null,
+    "options": [
+      "-x",
+      "x + 1",
+      "-x - 1",
+      "x + 2",
+      "x"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Complex Numbers",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let a, 3/4, ar^2, ar^3, ... be in G.P. where r > 0 If the product of first four terms of the G.P. is 3^6/4^5 then a is equal to",
+    "image": null,
+    "options": [
+      "3/2",
+      "2/3",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Sequences and Series",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let a₁, a₂, ..., aₙ be positive non-zero real numbers. If a₁, a₂, ..., aₙ = k then the minimum value of a₁ + a₂ + ... + aₙ is",
+    "image": null,
+    "options": [
+      "n(k)^(2/n)",
+      "n(k)^(1/n)",
+      "(k)^(1/n)",
+      "(k)^(2/n)",
+      "2n(k)^(2/n)"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Sequences and Series",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let λ be the A.M. between α and β and also G.M. between α and β. Then α² + β² =",
+    "image": null,
+    "options": [
+      "3αβ",
+      "1/2αβ",
+      "αβ",
+      "4αβ",
+      "2αβ"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Sequences and Series",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The coefficient of x^9 in the expansion of (4 - x^2/4)^12 is",
+    "image": null,
+    "options": [
+      "-^12C_7(4)^7(3)^5",
+      "^12C_7(4)^7(3)^5",
+      "^12C_6(4)^6(3)^6",
+      "^12C_5(4)^5(3)^7",
+      "0"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Binomial Theorem",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Five digit number is formed using the digits 0,1,2,3,4 and 5 without repetitions. Number of five digit numbers which are divisible by 10 is",
+    "image": null,
+    "options": [
+      "360",
+      "240",
+      "120",
+      "480",
+      "520"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Permutations and Combinations",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The constant term in the expansion of (2x^2 - 1/x^2)^6 is",
+    "image": null,
+    "options": [
+      "-160",
+      "160",
+      "-180",
+      "180",
+      "0"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Binomial Theorem",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If n is a positive integer and the coefficient of x in the expansion of (x^2 + 1/x^3)^n is ^nC_7, then n is equal to",
+    "image": null,
+    "options": [
+      "18",
+      "16",
+      "17",
+      "21",
+      "19"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Binomial Theorem",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let A = (a_ij)_(3×3), B = (b_ij)_(3×2) and C = (c_ij)_(3×1). Which one of the following products, is not defined ?",
+    "image": null,
+    "options": [
+      "C^T AB",
+      "A^T AB",
+      "(AB)^T C",
+      "(AB)C",
+      "B^T C"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Matrices",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let A be a square matrix of order 3 and |A| = 9 Then |adj(adj A)| =",
+    "image": null,
+    "options": [
+      "6561",
+      "6564",
+      "6569",
+      "8187",
+      "8164"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Matrices",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If |[1, 0, 0], [x, x+2, 0], [x^2, x, x+3]| = 0, then value of x are",
+    "image": null,
+    "options": [
+      "2,3",
+      "-2,3",
+      "-2,-3",
+      "1,2,3",
+      "-1,2,-3"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Determinants",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let A = [[0, 2], [3, 4]], I = [[1, 0], [0, 1]]. If (I+A) [[4, -3], [2, -1]] = [[8, -5], [22, x]], then the value of x is equal to",
+    "image": null,
+    "options": [
+      "14",
+      "-14",
+      "12",
+      "-12",
+      "15"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Matrices",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The solution set for -12x > 38, where x is a natural number, is",
+    "image": null,
+    "options": [
+      "{1,2,3}",
+      "{1,2}",
+      "{1}",
+      "empty set",
+      "{-1,-2,-3}"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Linear Inequalities",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let x be a real number such that x + x/4 + x/3 < 13. Then the solution set is",
+    "image": null,
+    "options": [
+      "(-∞, 156/19)",
+      "(156/19, ∞)",
+      "(154/19, ∞)",
+      "(-∞, 154/17)",
+      "(-156/19, 156/19)"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Linear Inequalities",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "cos75°cos45°cos15° =",
+    "image": null,
+    "options": [
+      "1/(3√2)",
+      "1/√2",
+      "1/(4√2)",
+      "1/(2√3)",
+      "2/√3"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Trigonometric Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If α + β + ν = 2π, then tan(α/2) + tan(β/2) + tan(ν/2) =",
+    "image": null,
+    "options": [
+      "tan(α/2)tan(β/2)tan(ν/2)",
+      "-tan(α/2)tan(β/2)tan(ν/2)",
+      "2 tan(α/2)tan(β/2)tan(ν/2)",
+      "3 tan(α/2)tan(β/2)tan(ν/2)",
+      "not provided"
+    ],
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "Trigonometric Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "tan (315°) cot (-405°) =",
+    "image": null,
+    "options": [
+      "-1",
+      "1",
+      "1/sqrt(2)",
+      "sqrt(3)/2",
+      "1/2"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Trigonometric Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "(sin(π/7) + sin(2π/7)) / (1 + cos(π/7) + cos(2π/7)) =",
+    "image": null,
+    "options": [
+      "cot(π/7)",
+      "cos(π/14)",
+      "1 + sin(π/14)",
+      "1 + cos(π/14)",
+      "tan(π/7)"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Trigonometric Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "sec(cos⁻¹(2024/2025)) is equal to",
+    "image": null,
+    "options": [
+      "2024/2025",
+      "2025/2024",
+      "1/2025",
+      "-1/2025",
+      "-2025/2024"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Inverse Trigonometric Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "tan⁻¹(1001/999) - tan⁻¹(2/2000) =",
+    "image": null,
+    "options": [
+      "π/3",
+      "π",
+      "1",
+      "π/6",
+      "π/4"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Inverse Trigonometric Functions",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let a ≠ 1 be non-zero real number. If the lines 2x + ay = 1 and x + 2y = 1 are perpendicular, then the value of a is equal to",
+    "image": null,
+    "options": [
+      "1",
+      "-2",
+      "2",
+      "-1",
+      "-1/2"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Straight Lines",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let P(1, 2), Q(a, b), R(5, 7) and S(2, 3) be the vertices of a parallelogram PQRS. Then",
+    "image": null,
+    "options": [
+      "a = 4, b = 2",
+      "a = 6, b = 2",
+      "a = 6, b = 4",
+      "a = 3, b = 2",
+      "a = 4, b = 6"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Straight Lines",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The axis of a parabola is x = 0 . If the vertex is at a distance 3 from the origin above the x -axis. The vertex of the parabola is at",
+    "image": null,
+    "options": [
+      "(3,0)",
+      "(-3,0)",
+      "(3,-3)",
+      "(3,3)",
+      "(0,3)"
+    ],
+    "answer": "E",
+    "difficulty": "easy",
+    "topic": "Parabola",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Length of the Latus rectum of the ellipse x²/9 + y²/16 = 1 is",
+    "image": null,
+    "options": [
+      "3/2",
+      "8",
+      "9/2",
+      "2",
+      "25/2"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Ellipse",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The centre of the ellipse 4x² + 24x + 9y² - 18y + 9 = 0 is",
+    "image": null,
+    "options": [
+      "(1,3)",
+      "(1, -3)",
+      "(3, -1)",
+      "(-3, 1)",
+      "(3, -3)"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Ellipse",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The line x - y + 4 = 0 touches the ellipse x² + 3y² = 12 at",
+    "image": null,
+    "options": [
+      "(1,3)",
+      "(3,1)",
+      "(0,2)",
+      "(0,-2)",
+      "(-3,1)"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Ellipse",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let OA⃗ = 2î + 3ĵ - 5k̂, OB⃗ = 3î + ĵ - 2k̂; OC⃗ = 6î - 5ĵ + 7k̂ be the position vectors of the points A, B and C. Then",
+    "image": null,
+    "options": [
+      "AC⃗ = 3AB⃗",
+      "AB⃗ = 3BC⃗",
+      "AC⃗ = 2AB⃗",
+      "AB⃗ = 3BC⃗",
+      "AC⃗ = 4AB⃗"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Vectors",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let AB⃗ = 2î + 10ĵ + 11k̂ and AC⃗ = -î + 2ĵ + 2k̂. If θ is the angle between AB⃗ and AC⃗ then sinθ =",
+    "image": null,
+    "options": [
+      "√13/9",
+      "√15/9",
+      "√14/9",
+      "√17/9",
+      "4/9"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Vectors",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let a⃗ × (2î + 3ĵ + 4k̂) = (2î + 3ĵ + 4k̂) × b⃗. If |a⃗ + b⃗| = √29, then a⃗ + b⃗ =",
+    "image": null,
+    "options": [
+      "(2î + 3ĵ - 4k̂)",
+      "-(2î + 3ĵ - 4k̂)",
+      "±(2î + 3ĵ + 4k̂)",
+      "±(2î - 3ĵ + 4k̂)",
+      "±√29(2î + 3ĵ + 4k̂)"
+    ],
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "Vectors",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let a⃗ = î + 2ĵ + 4k̂, b⃗ = 2î + 4ĵ + 8k̂ and c⃗ = 2î + 4ĵ + 3k̂. Then (a⃗ × b⃗) ⋅ c⃗ =",
+    "image": null,
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2",
+      "0"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Vectors",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The equation of the line passing through (0, 0, 1) and (1,1,0) is",
+    "image": null,
+    "options": [
+      "r⃗ = k̂ + λ(î + ĵ - k̂), λ ∈ ℝ",
+      "r⃗ = ĵ + λ(î - ĵ + k̂), λ ∈ ℝ",
+      "r⃗ = î + λ(î + ĵ + k̂), λ ∈ ℝ",
+      "r⃗ = î + ĵ + λ(î - ĵ - k̂), λ ∈ ℝ",
+      "r⃗ = î + ĵ + k̂ + λ(î + ĵ - k̂), λ ∈ ℝ"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Three Dimensional Geometry",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Which one of the following is a vector parallel to the straight line r⃗ = (î - 11ĵ + 101k̂) + λ(3î - 5ĵ + 2k̂), λ ∈ ℝ",
+    "image": null,
+    "options": [
+      "-3î + 5ĵ - 2k̂",
+      "3î + 5ĵ + 2k̂",
+      "î - 11ĵ + 101k̂",
+      "-î + 11ĵ + 101k̂",
+      "-4î - 16ĵ + 103k̂"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Three Dimensional Geometry",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The mean deviation about the mean for the following data: \n| x | 2 | 4 | 6 | 10 |\n| f | 7 | 4 | 5 | 4 |",
+    "image": null,
+    "options": [
+      "2",
+      "2.5",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Statistics",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If P(A) = 0.7, P(B) = 0.5 and P(A ∪ B) = 0.9 . Then P(A / B) is",
+    "image": null,
+    "options": [
+      "0.3",
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Probability",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The variance of 240, 260, 270, 280 is",
+    "image": null,
+    "options": [
+      "475/4",
+      "475/2",
+      "475/8",
+      "475/16",
+      "875/4"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Statistics",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Four unbiased coins are tossed simultaneously. Probability of getting atmost two heads, is",
+    "image": null,
+    "options": [
+      "5/8",
+      "9/16",
+      "11/16",
+      "13/16",
+      "15/16"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Probability",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "lim_{x→0} (sin(π sin^2x))/(x^2) =",
+    "image": null,
+    "options": [
+      "π/2",
+      "π",
+      "2π",
+      "π^2",
+      "π^2/2"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Limits and Continuity",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If [x] is the greatest integer less than or equal to x, then lim_{x→0^-} (sin[x])/[x] is equal to",
+    "image": null,
+    "options": [
+      "1",
+      "sin 1",
+      "-1",
+      "0",
+      "-sin 1"
+    ],
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "Limits and Continuity",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "lim_{x→2} ((x^3-8)sin(x-2))/(x^2-4x+4) is equal to",
+    "image": null,
+    "options": [
+      "4",
+      "8",
+      "12",
+      "-8",
+      "-12"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Limits and Continuity",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "lim(x→0) (xcos²x)/sinx is equal to",
+    "image": null,
+    "options": [
+      "4",
+      "2",
+      "-2",
+      "0",
+      "1"
+    ],
+    "answer": "E",
+    "difficulty": "easy",
+    "topic": "Limits and Continuity",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Let [a] be the greatest integer less than or equal to a, then lim(x→0⁺) ([1/x] + [2/x]) is equal to",
+    "image": null,
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0",
+      "4"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Limits and Continuity",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The function f(x) = |x² - 3x + 2|, x ∈ ℝ is not differentiable at",
+    "image": null,
+    "options": [
+      "x = 1 and x = 3",
+      "x = 1 and x = 2",
+      "x = 2 and x = 4",
+      "x = 4 and x = 5",
+      "x = -1 and x = -2"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Differentiation",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If e^y + x²y + xy² = e², then dy/dx at (0,1) is equal to",
+    "image": null,
+    "options": [
+      "1/e",
+      "e",
+      "-e",
+      "2/e",
+      "0"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Differentiation",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If f(x) = x | x |, then f'(- 10) =",
+    "image": null,
+    "options": [
+      "-20",
+      "-10",
+      "-40",
+      "20",
+      "40"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Differentiation",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If y = (tan x)^x, then (1/y) dy/dx =",
+    "image": null,
+    "options": [
+      "log(tan x) + 2x cosec(2x)",
+      "log(tanx) + x cosec(2x)",
+      "x log(tan x) + 2x cosec(2x)",
+      "x log(tan x) + x^2 cosec(2x)",
+      "log(tanx) + (x/2) cosec(2x)"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Differentiation",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The minimum of f(x) = | x + 2 |, x ∈ ℝ occurs at",
+    "image": null,
+    "options": [
+      "x = 0",
+      "x = 2",
+      "x = 1",
+      "x = - 2",
+      "x = - 1"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Applications of Derivatives",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If g(x) = x^2 - x, x ∈ ℝ, then g(x) is increasing in",
+    "image": null,
+    "options": [
+      "(- ∞, ∞)",
+      "(- ∞, 0)",
+      "(0, - ∞)",
+      "(- 5, 5)",
+      "[1/2, ∞)"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Applications of Derivatives",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The distance travelled by a moving particle is given by s = t² - 6t + 10, where t is the time in seconds. The particle is at rest when t =",
+    "image": null,
+    "options": [
+      "1",
+      "4",
+      "6",
+      "3",
+      "8"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Applications of Derivatives",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The maximum value of the function f(x) = x√(4x - x²) is",
+    "image": null,
+    "options": [
+      "√3",
+      "4√3",
+      "5√3",
+      "3√3",
+      "6√3"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Applications of Derivatives",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫ (sin2x)/(sinx) dx =",
+    "image": null,
+    "options": [
+      "sinx + C",
+      "2cosx + C",
+      "-cosx + C",
+      "-sinx + C",
+      "2sinx + C"
+    ],
+    "answer": "E",
+    "difficulty": "easy",
+    "topic": "Integration",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫ (log(1+x))/(1+x) dx =",
+    "image": null,
+    "options": [
+      "1/2 log(1+x) + C",
+      "1/2 [log(1+x)]² + C",
+      "[log(1+x)]² + C",
+      "log(1+x) + C",
+      "x log(1+x) + C"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Integration",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫ (cosθ)/(2 - sin²θ) dθ =",
+    "image": null,
+    "options": [
+      "1/2 log| (√2 - sinθ)/(√2 + sinθ) | + C",
+      "1/(2√2) log| (√2 + sinθ)/(√2 - sinθ) | + C",
+      "1/(2√2) log| (√2 - sinθ)/(√2 + sinθ) | + C",
+      "1/2 log| (√2 + sinθ)/(√2 - sinθ) | + C",
+      "log| (√2 + sinθ)/(√2 - sinθ) | + C"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Integration",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫ (sin⁻¹√x + cos⁻¹√x) dx =",
+    "image": null,
+    "options": [
+      "π/2 + C",
+      "πx/4 + C",
+      "πx/3 + C",
+      "πx/2 + C",
+      "-πx/2 + C"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Integration",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫ e^x [1/(1+x) - 1/(1+x)^2] dx =",
+    "image": null,
+    "options": [
+      "e^x/(1+x) + C",
+      "xe^x/(1+x) + C",
+      "e^x(1+x)^2 + C",
+      "e^x/(1+x)^2 + C",
+      "e^x/(1+x^2) + C"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Integration",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫ from 3 to 5 [1/(x(1+x))] dx =",
+    "image": null,
+    "options": [
+      "log(10/9)",
+      "log(5)",
+      "log(2)",
+      "log(3/2)",
+      "log(4/3)"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Definite Integrals",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "If [x] is the greatest integer less than or equal to x, then ∫_(-3)^3 [x]dx =",
+    "image": null,
+    "options": [
+      "-3",
+      "-6",
+      "-4",
+      "-2",
+      "0"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Definite Integrals",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫_(-π/2)^(π/2) (x^5 + x^3 + x) cos x dx =",
+    "image": null,
+    "options": [
+      "π/4",
+      "π",
+      "2π/3",
+      "π/2",
+      "0"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Definite Integrals",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "∫_(-log 3)^(log 3) e^|x| dx =",
+    "image": null,
+    "options": [
+      "3",
+      "6",
+      "4",
+      "8",
+      "0"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Definite Integrals",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The integrating factor of the differential equation dy/dx - 2y = 2x - 3 is",
+    "image": null,
+    "options": [
+      "e^(2x)",
+      "-1/2 e^(-2x)",
+      "e^(-2x)",
+      "-e^(-2x)",
+      "e^x"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Differential Equations",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The elimination of arbitrary constants C₁, C₂, C₃, C₄ from y = (C₁ + C₂)sin(2x + C₃) + C₄e^(5x) gives a differential equation of order",
+    "image": null,
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1",
+      "5"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Differential Equations",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "Consider the linear programming problem. Minimize z = x + y Subject to the constraint 2x + 3y ≥ 6, x ≥ 0, y ≥ 0 Then the solution of L.P.P. is",
+    "image": null,
+    "options": [
+      "0",
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Linear Programming",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The dimensions of mB/kT where m is the magnetic moment, B, the magnetic flux density, k, Boltzmann constant and T, the absolute temperature are:",
+    "image": null,
+    "options": [
+      "ML⁻¹T⁻¹",
+      "ML²T⁻¹",
+      "MLT⁻¹",
+      "ML⁻²T",
+      "M⁰L⁰T⁰"
+    ],
+    "answer": "E",
+    "difficulty": "hard",
+    "topic": "Units and Measurement",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The SI unit of surface tension is",
+    "image": null,
+    "options": [
+      "Nm⁻¹",
+      "Nm⁻²",
+      "N/m²",
+      "J/m",
+      "J/m²"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Units and Measurement",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A car starting from rest moves such that its acceleration varies with time as a = 6t (ms⁻²). Its velocity (in ms⁻¹) and displacement (in m) after 4 seconds, respectively, are",
+    "image": null,
+    "options": [
+      "48, 64",
+      "16, 24",
+      "16, 38",
+      "24, 32",
+      "32, 24"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Kinematics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The coefficient of friction is defined as the ratio of",
+    "image": null,
+    "options": [
+      "frictional force to applied force",
+      "frictional force to normal force",
+      "normal force to frictional force",
+      "weight of the object to frictional force",
+      "applied force to frictional force"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Laws of Motion",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A tennis ball of mass 150 g is moving at 20 ms⁻¹. A racket strikes it, reversing its direction with a final speed of 30 ms⁻¹. If the contact time is 0.02 s, then the magnitude of the force (in N) exerted by the racket is",
+    "image": null,
+    "options": [
+      "375",
+      "150",
+      "250",
+      "125",
+      "75"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Laws of Motion",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A traffic light of mass 10√3 kg is suspended by two cables making 30° with the vertical. The tension in each cable is:",
+    "image": null,
+    "options": [
+      "10 N",
+      "9.8 N",
+      "98 N",
+      "19.6 N",
+      "20 N"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Laws of Motion",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A car moves at a speed of 20 ms⁻¹ under a force of 500 N. The power output of the car is",
+    "image": null,
+    "options": [
+      "9.8 kW",
+      "980 kW",
+      "98 kW",
+      "10 kW",
+      "100 kW"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Work Energy and Power",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A spring is stretched twice its initial extension. Compared to its initial value, the potential energy",
+    "image": null,
+    "options": [
+      "becomes four times",
+      "is doubled",
+      "is halved",
+      "remains the same",
+      "becomes zero"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Work Energy and Power",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "If a spinning object contracts, its angular velocity",
+    "image": null,
+    "options": [
+      "remains the same",
+      "becomes zero",
+      "becomes negative",
+      "increases",
+      "decreases"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Rotational Motion",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A boy whirls a ball on a string along a horizontal circle of radius 98 cm. The angular velocity (in rad s⁻¹) with which the ball has to be whirled so that its acceleration towards the centre of the circle has the same magnitude as acceleration due to gravity is",
+    "image": null,
+    "options": [
+      "√10",
+      "1/sqrt(10)",
+      "10",
+      "0.1",
+      "100"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Rotational Motion",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The centre of mass of a thin uniform rod of length L lies at a distance (from one end)",
+    "image": null,
+    "options": [
+      "2L/3",
+      "3L/4",
+      "L/2",
+      "L/3",
+      "L/4"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Rotational Motion",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The ratio of the escape velocity to the orbital velocity of the earth is",
+    "image": null,
+    "options": [
+      "2",
+      "√2",
+      "1/sqrt(2)",
+      "1/2",
+      "√3"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Gravitation",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The angle of contact is the angle between",
+    "image": null,
+    "options": [
+      "the normals to the liquid surface and the container wall",
+      "the liquid surface and the container wall",
+      "the tangent to the liquid surface and solid surface within the liquid at the point of contact",
+      "the liquid surface and solid surface outside the liquid",
+      "the line joining the centres of curvature of the liquid meniscus"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Properties of Matter",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "Water flows at 3 ms⁻¹ in a horizontal pipe under a pressure of 2 × 10⁵ Nm⁻². The pipe narrows to half its original diameter at one end. The speed of water (in ms⁻¹) in this narrow section is",
+    "image": null,
+    "options": [
+      "3",
+      "4",
+      "6",
+      "12",
+      "24"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Properties of Matter",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A Carnot engine is working between 127 °C and 27 °C. Keeping the sink temperature unaltered, the temperature at which the source has to be kept so as to double its efficiency is",
+    "image": null,
+    "options": [
+      "400°C",
+      "273 °C",
+      "327°C",
+      "525 °C",
+      "600°C"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The ratio of specific heat capacities of a diatomic gas at constant pressure and constant volume is",
+    "image": null,
+    "options": [
+      "1.4",
+      "1.6",
+      "1.7",
+      "1.8",
+      "1.5"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Kinetic Theory of Gases",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The translational kinetic energy of an ideal gas containing N molecules at temperature T is (k - Boltzmann constant)",
+    "image": null,
+    "options": [
+      "5/2 NkT",
+      "1/2 NkT",
+      "3/2 NkT",
+      "7/2 NkT",
+      "9/2 NkT"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Kinetic Theory of Gases",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "For an ideal gas of molar mass M, the slope of the plot between the rms velocity (v_rms along the y-axis) and the square root of absolute temperature (√T along the x-axis) is",
+    "image": null,
+    "options": [
+      "sqrt(M/3R)",
+      "sqrt(3R/M)",
+      "sqrt(R/3M)",
+      "R/(3M)",
+      "3R/M"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Kinetic Theory of Gases",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "In a simple harmonic motion,",
+    "image": null,
+    "options": [
+      "the velocity is constant",
+      "the motion is periodic",
+      "the acceleration is directly proportional to velocity",
+      "the acceleration is along the direction of displacement",
+      "the motion must be along a straight line"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Oscillations",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The principle of superposition in wave motion states that",
+    "image": null,
+    "options": [
+      "the net displacement is the vector sum of individual displacements",
+      "waves interfere with each other and lose energy",
+      "waves cannot occupy the same space at the same time",
+      "it is applicable to sound waves only",
+      "none of these"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Waves",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The number of nodes and antinodes in a guitar string vibrating in the third harmonic is:",
+    "image": null,
+    "options": [
+      "5 nodes, 4 antinodes",
+      "4 nodes, 3 antinodes",
+      "3 nodes, 2 antinodes",
+      "2 nodes, 3 antinodes",
+      "1 node, 2 antinodes"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Waves",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The electric field inside a uniformly charged spherical shell of radius R is:",
+    "image": null,
+    "options": [
+      "directly proportional to the charge within the shell",
+      "inversely proportional to R^2",
+      "same as that outside the shell",
+      "zero",
+      "maximum at the centre"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Electrostatics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The torque on an electric dipole consisting of charges q and -q of dipole moment P in a uniform electric field E is",
+    "image": null,
+    "options": [
+      "qE",
+      "-qE",
+      "Zero",
+      "P.E",
+      "P × E"
+    ],
+    "answer": "E",
+    "difficulty": "easy",
+    "topic": "Electrostatics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The direction of the electric field due to a positive charge is:",
+    "image": null,
+    "options": [
+      "circular around the charge",
+      "radially inwards towards the charge",
+      "radially outwards away from the charge",
+      "along a fixed straight line away from the charge",
+      "along a fixed straight line towards the charge"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Electrostatics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The current carrying rail of a subway track is made of steel and has a cross-sectional area of about 20 cm². The resistance of 2 km of the track is (in ohm) as a multiple of the specific resistance of steel, ρ is:",
+    "image": null,
+    "options": [
+      "10^2 ρ",
+      "10^3 ρ",
+      "10^4 ρ",
+      "10^5 ρ",
+      "10^6 ρ"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Current Electricity",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "If n identical cells each of emf E and internal resistance r are connected in parallel, the total EMF and total internal resistance of the combination, respectively, are",
+    "image": null,
+    "options": [
+      "nE, nr",
+      "E, nr",
+      "E, r/n",
+      "nE, 2nr",
+      "nE, r/n"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Current Electricity",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The line integral of the magnetic field around a closed loop is directly proportional to the:",
+    "image": null,
+    "options": [
+      "current enclosed",
+      "charge enclosed",
+      "voltage across the loop",
+      "length of the loop",
+      "electric field around the loop"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Magnetic Effects of Current",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The magnetic dipole moment of a current loop carrying current I and of area A with n turns is",
+    "image": null,
+    "options": [
+      "IA/n",
+      "IA/n^2",
+      "IA/2",
+      "nIA",
+      "IA"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Magnetic Effects of Current",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A galvanometer is converted into a voltmeter by connecting",
+    "image": null,
+    "options": [
+      "a high resistance in series",
+      "a low resistance in series",
+      "a high resistance in parallel",
+      "a low resistance in parallel",
+      "an inductance in series"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Current Electricity",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The resistance of a semiconductor",
+    "image": null,
+    "options": [
+      "increases with increase in temperature",
+      "decreases with increase in temperature",
+      "is independent of temperature",
+      "becomes infinite at high temperature",
+      "becomes zero at high temperature"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Semiconductor Devices",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "A metal rod of length 0.5 m moves with its length perpendicular to a uniform magnetic field of 0.2 T with a velocity of 3 ms⁻¹. The induced emf in the rod is",
+    "image": null,
+    "options": [
+      "0.1 V",
+      "0.2 V",
+      "0.3 V",
+      "0.4 V",
+      "0.6 V"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Electromagnetic Induction",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The speed of electromagnetic waves in a medium depends on the",
+    "image": null,
+    "options": [
+      "intensity of the wave",
+      "initial phase of the wave",
+      "permittivity and permeability of the medium",
+      "energy it carries",
+      "reflectivity of the medium"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Electromagnetic Waves",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "When a beam of white light enters into an optical prism, the most deviated colour is",
+    "image": null,
+    "options": [
+      "green",
+      "violet",
+      "yellow",
+      "red",
+      "blue"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Optics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The phenomenon of diffraction is most significant when the slit width is",
+    "image": null,
+    "options": [
+      "much larger than the wavelength",
+      "much smaller than the wavelength",
+      "comparable to the wavelength",
+      "equal to the screen distance",
+      "independent of the wavelength"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Optics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "In Huygens construction, the secondary wavelets move",
+    "image": null,
+    "options": [
+      "in all directions",
+      "only radially outward",
+      "only radially inward",
+      "only in the backward direction of the incident light",
+      "in a direction perpendicular to the direction of the incident light"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Optics",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The plot of maximum kinetic energy of photo-electrons to the energy of the incident photon above its threshold frequency on a photo-sensitive material of work function φ is",
+    "image": null,
+    "options": [
+      "an oblique straight line with a positive slope.",
+      "an oblique straight line with a negative slope.",
+      "an oblique straight line passing through the origin.",
+      "an exponential curve.",
+      "a polynomial curve of order 2."
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Dual Nature of Matter",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The ratio of the respective de Broglie wavelengths of two particles with kinetic energy of 0.02 eV and 2 eV, respectively, is",
+    "image": null,
+    "options": [
+      "1:1",
+      "10:1",
+      "1:10",
+      "1:√10",
+      "√10:1"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Dual Nature of Matter",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "In the following nuclear reaction, Z is a/an 197/80 X → 197/79 Y + Z + v",
+    "image": null,
+    "options": [
+      "α particle",
+      "β+ particle",
+      "β- particle",
+      "Proton",
+      "Neutron"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Atoms and Nuclei",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "If a radioactive element disintegrates for a period of time equal to its mean life, then the fraction of the original amount remaining undisintegrated is",
+    "image": null,
+    "options": [
+      "e^-1",
+      "1-e^-1",
+      "1-1/e",
+      "1/e",
+      "2e"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Atoms and Nuclei",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "In a Germanium crystal containing N atoms, the total number of outer electrons in the crystal is",
+    "image": null,
+    "options": [
+      "N",
+      "2 N",
+      "3 N",
+      "6 N",
+      "4 N"
+    ],
+    "answer": "E",
+    "difficulty": "easy",
+    "topic": "Semiconductor Devices",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "The donor level in an n-type semiconductor lies",
+    "image": null,
+    "options": [
+      "just below the conduction band",
+      "exactly at the middle of the band gap",
+      "just below the valence band",
+      "just above the conduction band",
+      "on the valence band"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Semiconductor Devices",
+    "year": 2025,
+    "subject": "p"
+  },
+  {
+    "question": "Ten grams of calcium carbonate which is only 90% pure is treated with excess hydrochloric acid. What is the mass of CO₂ gas liberated? (Atomic mass: Ca=40, C=12 & O=16)",
+    "image": null,
+    "options": [
+      "4.4g",
+      "3.96g",
+      "2.2g",
+      "0.44g",
+      "0.22g"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "For any sub-shell defined by 'l' value how many values of magnetic quantum number (m_l) are possible?",
+    "image": null,
+    "options": [
+      "(2l)",
+      "(2l -1)",
+      "(2l +1)",
+      "(l +1)",
+      "(l-1)"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "What is the total number of orbitals associated with the principal quantum number n=3?",
+    "image": null,
+    "options": [
+      "3",
+      "6",
+      "9",
+      "10",
+      "14"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The alkali metal with the highest first enthalpy of ionization is",
+    "image": null,
+    "options": [
+      "Cs",
+      "Rb",
+      "K",
+      "Na",
+      "Li"
+    ],
+    "answer": "E",
+    "difficulty": "easy",
+    "topic": "s-Block Elements",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Which one of the following molecules contains two 'sigma' bonds and two 'pi' bonds?",
+    "image": null,
+    "options": [
+      "O₂",
+      "N₂",
+      "C₂H₂",
+      "CO₂",
+      "CO"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Chemical Bonding",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "12g of pure graphite is burnt completely in a bomb calorimeter in excess of oxygen at 298 K at 1 atm. pressure. During combustion, the temperature rises from 298 K to 308 K. The heat capacity of the bomb calorimeter is 20.7 kJ K⁻¹. What is the enthalpy change for combustion of 1 mole of graphite (in kJ mol⁻¹) at 298 K and 1 atm. pressure? (R=8.3 JK⁻¹ mol⁻¹)",
+    "image": null,
+    "options": [
+      "-248.4",
+      "-207",
+      "-207.8",
+      "-206.2",
+      "-247.6"
+    ],
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "Thermodynamics",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "If water vapour is assumed to be a perfect gas, molar enthalpy change for vapourisation of 1 mol of water at 1bar and 100°C is 41kJ mol⁻¹. Calculate the internal energy change (in kJ mol⁻¹) when 1 mole of water is vaporized at 100°C at 1 bar assuming water vapour as an ideal gas. (R=8.3 JK⁻¹mol⁻¹)",
+    "image": null,
+    "options": [
+      "43.1",
+      "37.9",
+      "-43.1",
+      "-37.9",
+      "41.0"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "If \"S\" is the solubility of X₃Y₂ in pure water, assuming that neither kind of ion reacts with water, then, the solubility product, Ksp is",
+    "image": null,
+    "options": [
+      "27 S⁴",
+      "108 S⁵",
+      "108 S²",
+      "27 S⁶",
+      "27 S²"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "In which of the following equilibrium Kp = Kc ?",
+    "image": null,
+    "options": [
+      "CaCO₃(s) ⇌ CaO(s) + CO₂(g)",
+      "2SO₂(g) + O₂(g) ⇌ 2SO₃(g)",
+      "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g)",
+      "H₂(g) + I₂(g) ⇌ 2HI(g)",
+      "N₂O₄(g) ⇌ 2NO₂(g)"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Equilibrium",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "In the following cell reaction, Zn(s) + Cu²⁺ (0.1 M) ⇌ Zn²⁺ (0.001 M) + Cu(s) , at 298 K, Calculate the Ecell at 298 K if E⁰cell at this temperature is 1.1V. (2.303 RT/F = 0.059 V at 298 K)",
+    "image": null,
+    "options": [
+      "1.159 V",
+      "1.041 V",
+      "1.1295 V",
+      "1.0705 V",
+      "1.1885 V"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Electrochemistry",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "For which of the following electrode reactions the standard electrode potential is the highest at 298 K? The ions are present in aqueous solution.",
+    "image": null,
+    "options": [
+      "Co³⁺ + e⁻ → Co²⁺",
+      "Cl₂(g) + 2e⁻ → 2Cl⁻",
+      "MnO₂(s) + 4H⁺ + 2e⁻ → Mn²⁺ + 2H₂O",
+      "F₂(g) + 2e⁻ → 2F⁻",
+      "AgCl(s) + e⁻ → Ag(s) + Cl⁻"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Electrochemistry",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The vapour pressure of pure benzene (molar mass=78 g mol⁻¹) at a certain temperature is 0.85 bar. When 0.5 g of a non-volatile, non-electrolyte is added to 39 g of benzene, the vapour pressure was found to be 0.845 bar at the same temperature. What is the molar mass of the substance?",
+    "image": null,
+    "options": [
+      "85 g mol⁻¹",
+      "127.5 g mol⁻¹",
+      "170 g mol⁻¹",
+      "210 g mol⁻¹",
+      "145 g mol⁻¹"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Solutions",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "A first order reaction is 75% completed in 6000 s at 300 K. What is its half life period at the same temperature? (log 2 = 0.3010)",
+    "image": null,
+    "options": [
+      "15 min",
+      "25 min",
+      "75 min",
+      "50 min",
+      "60 min"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Chemical Kinetics",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Which of the following is the rate law (rate equation) for this reaction based on the provided table of concentrations and initial rates?",
+    "image": null,
+    "options": [
+      "Rate = k[NH₄⁺]^(1/2) [NO₂⁻]",
+      "Rate = k[NH₄⁺] [NO₂⁻]",
+      "Rate = k[NH₄⁺]⁰ [NO₂⁻]",
+      "Rate = k[NH₄⁺] [NO₂⁻]^(1/2)",
+      "Rate = k[NH₄⁺] [NO₂⁻]^2"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Chemical Kinetics",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Acidified potassium dichromate cannot oxidize",
+    "image": null,
+    "options": [
+      "Iodides to iodine",
+      "Iron (II) salt to iron (III) salt",
+      "Tin (II) salt to tin (IV) salt",
+      "H₂S to sulphur",
+      "Fluoride to fluorine"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "d and f Block Elements",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Which of the following is a basic oxide?",
+    "image": null,
+    "options": [
+      "CrO",
+      "CrO₃",
+      "Mn₂O₇",
+      "Cr₂O₃",
+      "V₂O₅"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "d and f Block Elements",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The transistion metal ion with the highest magnetic moment is",
+    "image": null,
+    "options": [
+      "Fe²⁺",
+      "Mn²⁺",
+      "Ni²⁺",
+      "Co²⁺",
+      "Cr²⁺"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "d and f Block Elements",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The transition metal with the highest melting point is",
+    "image": null,
+    "options": [
+      "Mo",
+      "Mn",
+      "W",
+      "Cr",
+      "Au"
+    ],
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "d and f Block Elements",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Which of the following complex has the least conductivity?",
+    "image": null,
+    "options": [
+      "[Co(NH₃)₅ Cl]Cl₂",
+      "Cis-[Co(NH₃)₄ Cl₂]Cl",
+      "[Co(NH₃)₆]Cl₃",
+      "[Co(NH₃)₃Cl₃]",
+      "trans-[Co(NH₃)₄Cl₂]Cl"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Coordination Compounds",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Which one of the following is an ambidentate ligand?",
+    "image": null,
+    "options": [
+      "Oxalate",
+      "Carbon monoxide",
+      "Ethylene diamine",
+      "Ammonia",
+      "Nitrite"
+    ],
+    "answer": "E",
+    "difficulty": "easy",
+    "topic": "Coordination Compounds",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The empirical formula of an organic compound is CH₂. The molar mass of the compound is 56g mol⁻¹. The organic compound is",
+    "image": null,
+    "options": [
+      "n-Butane",
+      "Propene",
+      "Propane",
+      "2-Methylpropane",
+      "Cyclobutane"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Basic Organic Chemistry",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Which of the following finely divided metals can be used as catalyst in the hydrogenation of alkenes and alkynes? (i) Pt (ii) Fe (iii) Ni (iv) Pd",
+    "image": null,
+    "options": [
+      "(i), (ii) & (iii)",
+      "(ii), (iii) & (iv)",
+      "(i), (iii) & (iv)",
+      "(ii) & (iii)",
+      "(i), (ii), (iii) & (iv)"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Basic Organic Chemistry",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The solvent used in Wurtz reaction is",
+    "image": null,
+    "options": [
+      "Water",
+      "Methanol",
+      "Ethanol",
+      "Dry ether",
+      "Aqueous ethanol"
+    ],
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "Haloalkanes and Haloarenes",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "When chlorobenzene is treated with Cl₂ in the presence of anhydrous FeCl₃ catalyst gives a mixture of 1,2-dichlorobenzene and 1,4-dichlorobenzene. This reaction is an example of",
+    "image": null,
+    "options": [
+      "Nucleophilic substitution reaction",
+      "Electrophilic substitution reaction",
+      "Free radical substitution reaction",
+      "Nucleophilic addition reaction",
+      "Electrophilic addition reaction"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Haloalkanes and Haloarenes",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Which of the following compound contains two primary alcoholic and one secondary alcoholic groups?",
+    "image": null,
+    "options": [
+      "Ethylene glycol",
+      "Isopropyl alcohol",
+      "3° Butyl alcohol",
+      "Glycerol",
+      "2° Butyl alcohol"
+    ],
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "Alcohols Phenols and Ethers",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Propene on hydroboration-oxidation gives",
+    "image": null,
+    "options": [
+      "1-propanol",
+      "2-propanol",
+      "propanal",
+      "propanone",
+      "etanoic acid"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Alcohols Phenols and Ethers",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "When propanone is treated with Zn/Hg and Con.HCl propane is formed. This reaction is known as",
+    "image": null,
+    "options": [
+      "Wolf-Kishner reaction",
+      "Clemmensen reaction",
+      "Hoffman reaction",
+      "Cannizzaro reaction",
+      "Aldol condensation"
+    ],
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "Aldehydes Ketones and Carboxylic Acids",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "Benzoyl chloride can be converted to benzaldehyde by",
+    "image": null,
+    "options": [
+      "Rosenmund reduction",
+      "Etard reaction",
+      "Stephen reaction",
+      "Gatterman reaction",
+      "Gatterman-Koch reaction"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Aldehydes Ketones and Carboxylic Acids",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The amine with the highest pK_b value is",
+    "image": null,
+    "options": [
+      "Methanamine",
+      "N-methylmethanamine",
+      "Benzeneamine",
+      "N-Methylaniline",
+      "Ethanamine"
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Amines",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "The base that is not present in DNA is",
+    "image": null,
+    "options": [
+      "uracil",
+      "adenine",
+      "guanine",
+      "thymine",
+      "cytosine"
+    ],
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "Biomolecules",
+    "year": 2025,
+    "subject": "c"
+  }
+]

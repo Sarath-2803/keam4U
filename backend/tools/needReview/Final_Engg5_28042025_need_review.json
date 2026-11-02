@@ -1,0 +1,50 @@
+[
+  {
+    "question": "The shaded region ABC shown in the diagram is given by the inequalities [diagram]",
+    "image": null,
+    "options": [
+      "x + y ≤ 3, 3x + 5y ≥ 15, x ≥ 0, y ≥ 0.",
+      "x + y ≥ 3, 3x + 5y ≤ 15, x ≥ 0, y ≥ 0.",
+      "x + y ≤ 3, 3x + 5y ≤ 15, x ≥ 0, y ≥ 0.",
+      "x + y ≥ 3, 3x + 5y ≥ 15, x ≥ 0, y ≥ 0.",
+      "x + y ≤ 3, 3x + 5y = 15, x ≥ 0, y ≥ 0."
+    ],
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "Linear Programming",
+    "year": 2025,
+    "subject": "m"
+  },
+  {
+    "question": "The products P₁, P₂, P₃ and P₄ of the following reactions are [diagram]",
+    "image": null,
+    "options": [
+      "P₁ = Phenol, P₂ = Salicylaldehyde, P₃ = Cyclohexanol, P₄ = Phenyl acetate",
+      "P₁ = Phenol, P₂ = Salicylic acid, P₃ = Anisole, P₄ = Aspirin",
+      "P₁ = Benzene, P₂ = Benzoic acid, P₃ = Phenol, P₄ = Salicylic acid",
+      "P₁ = Phenol, P₂ = Salicylic acid, P₃ = Phenol, P₄ = Phenyl acetate",
+      "P₁ = Benzoic acid, P₂ = Phenol, P₃ = Phenyl methyl ether, P₄ = Aspirin"
+    ],
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "Alcohols Phenols and Ethers",
+    "year": 2025,
+    "subject": "c"
+  },
+  {
+    "question": "In the following reaction, the final product B is C₆H₅NH₂ → (CH₃CO)₂O/Pyridine → A → Br₂/CH₃COOH → B [diagram]",
+    "image": null,
+    "options": [
+      "Structure A",
+      "Structure B",
+      "Structure C",
+      "Structure D",
+      "Structure E"
+    ],
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "Amines",
+    "year": 2025,
+    "subject": "c"
+  }
+]

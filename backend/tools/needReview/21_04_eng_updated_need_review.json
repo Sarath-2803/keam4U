@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Three capacitors A, B, C with respective capacitance of 1μF, 2μF and 3 μF are connected as shown. For a given voltage source V connected across them, the combination that can store the maximum energy is [diagram]",
+    "image": null,
+    "options": [
+      "Series-Parallel combination as shown in A",
+      "Series-Parallel combination as shown in B",
+      "Series combination as shown in C",
+      "Series-Parallel combination as shown in D",
+      "Parallel combination as shown in E"
+    ],
+    "answer": "E",
+    "difficulty": "medium",
+    "topic": "Electrostatics",
+    "year": 2026,
+    "subject": "p"
+  },
+  {
+    "question": "Three cells of 3 V, 4 V and 4 V with respective internal resistances 0.5Ω, 0.75 Ω and 0.75 Ω are connected is series to a resistor of 4 Ω. Then the current in the circuit is [diagram]",
+    "image": null,
+    "options": [
+      "1 A",
+      "0.5 A",
+      "0.25 A",
+      "0.75 A",
+      "0.67 A"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Current Electricity",
+    "year": 2026,
+    "subject": "p"
+  },
+  {
+    "question": "Four ideal diodes are connected as shown then the current drawn from the battery is [diagram]",
+    "image": null,
+    "options": [
+      "zero",
+      "10 mA",
+      "100 mA",
+      "50 mA",
+      "20 mA"
+    ],
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "Semiconductor Devices",
+    "year": 2026,
+    "subject": "p"
+  },
+  {
+    "question": "Average rate of the reaction between 20 and 40 seconds is [diagram]",
+    "image": null,
+    "options": [
+      "0.01 mol lit⁻¹ s⁻¹",
+      "0.02 mol lit⁻¹ s⁻¹",
+      "0.001 mol lit⁻¹ s⁻¹",
+      "0.1 mol lit⁻¹ s⁻¹",
+      "0.04 mol lit⁻¹ s⁻¹"
+    ],
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "Chemical Kinetics",
+    "year": 2026,
+    "subject": "c"
+  }
+]
